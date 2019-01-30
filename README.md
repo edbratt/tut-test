@@ -1,6 +1,7 @@
 # Jakarta EE Tutorial
 
-Welcome to the Jakarta EE Tutorial. Click this link to view the [Table of Contents](https://eclipse-ee4j.github.io/glassfish-tutorial/tut/toc.html). This guide provides a step-by-step, hand's on walk-through of the Jakarta EE technologies.
+Welcome to the Jakarta EE Tutorial. Click this link to view the [Complete Table of Contents](tut/toc.html). This guide provides a step-by-step, hand's on walk-through of the Jakarta EE technologies.
+
 The Jakarta EE tutorial is divided into twelve parts:
 1. [Overview](tut/partintro.html#GFIRP)
 1. [Platform Basics](tut/partplatform.html#GFIRP2)
