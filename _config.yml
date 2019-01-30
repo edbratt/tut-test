@@ -1,18 +1,19 @@
 remote_theme:  jakartaee/jekyll-theme-jakarta-ee
 
-title: [Eclipse OpenMQ]
-description: [Eclipse Open Message Queue (Eclipse Open MQ) -- A complete JMS MOM Platform]
+title: [Eclipse GlassFish Tutorial]
+description: [Eclipse GlassFish Tutorial a.k.a. Jakarta EE Tutorial]
 
 # sidebar links url
 links:
-  source: https://github.com/eclipse-ee4j/openmq
-  download: https://projects.eclipse.org/projects/ee4j.glassfish/downloads
-  mailinglist: https://accounts.eclipse.org/mailing-list/openmq-dev
+  source: https://github.com/eclipse-ee4j/glassfish-tutorial
+  download:
+  mailinglist: https://accounts.eclipse.org/mailing-list/glassfish-tutorial-dev
   #javadocs:
-  docs: guides/index.html
+  docs: https://eclipse-ee4j.github.io/glassfish-tutorial/tut/toc.html
   #faq:
   #hide_issuetracker: true #set explicitly to 'true' if you don't want to have the issue tracker link displayed
 
 include:
   LICENSE.md
   CONTRIBUTING.md
+
